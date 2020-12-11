@@ -1,0 +1,38 @@
+{
+  "name": "Spotfidz",
+  "short_name": "Spotfidz",
+  "start_url": "https://streamgp.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ba2be2",
+  "description": "Mengulas Pengalaman Bermanfaat, Tips dan Trik, Otomotif, Fakta Menarik dan Full Race MotoGP.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-S-cjqMDH_8U/X9OXupp3ROI/AAAAAAAAFMY/aJj-UnRdbGYBT3hMAsfIR1TivBd3UZz_wCLcBGAsYHQ/s48/Spotfidz%252525252B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-A6INJocZoF8/X9OX0YrSnlI/AAAAAAAAFMc/uN33jp7BqU4phlOk4PbPccRTQf5jLBLCACLcBGAsYHQ/s72/Spotfidz%252525252B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-v-DyXn7vWy4/X9OX5vk4evI/AAAAAAAAFMk/FrrbA1Xu6wY-Mh7goHL-HH1Xk5qvBycQgCLcBGAsYHQ/s96/Spotfidz%252525252B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-eWmoGY87G_g/X9OX_86O8vI/AAAAAAAAFMo/gOztF9_qnLsz1HCFPJuEd2RQ5XoSo1YpQCLcBGAsYHQ/s144/Spotfidz%252525252B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-xPPEOac3U98/X9OYGMemkWI/AAAAAAAAFMw/7qjWVA6eoXsvukBkRlikXfOONKfU60dnwCLcBGAsYHQ/s168/Spotfidz%252525252B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6ASsiNQxtZk/X9OYNTTLukI/AAAAAAAAFM4/hE-fOIa1NG8l8HQhEvci7ezwH5EZS2GxACLcBGAsYHQ/s192/Spotfidz%252525252B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-3v4ynP7eogI/X9OYXCnR-II/AAAAAAAAFNE/Qy06wFi7_58c-LEK37_Pa7p-eYsXMdC6gCLcBGAsYHQ/s512/Spotfidz%252525252B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
