@@ -1,37 +1,37 @@
 {
-  "name": "Spotfidz",
-  "short_name": "Spotfidz",
+  "name": "StreamGP",
+  "short_name": "StreamGP",
   "start_url": "https://streamgp.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#ba2be2",
+  "theme_color": "#7117a9",
   "description": "Mengulas Pengalaman Bermanfaat, Tips dan Trik, Otomotif, Fakta Menarik dan Full Race MotoGP.",
   "icons": [{
-    "src": "https://2.bp.blogspot.com/-S-cjqMDH_8U/X9OXupp3ROI/AAAAAAAAFMY/aJj-UnRdbGYBT3hMAsfIR1TivBd3UZz_wCLcBGAsYHQ/s48/Spotfidz%252525252B48.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg1QUuqmaPFaMwhNjXgSK99AYzqLFlRcJ3WyoD9fJQom-TfJVUkrxTOrUlHn1i7rTo8NjH8qDEHdjM3GXqdXejyPmIBFMwgaXkwSQ-eDfvG6aSp4evsCdJmFWXVb02Ekiy-5Mp44cKXjyRTBeIuc44Ldm5y3aaPS_jpGC5EG7JGVcDvH0i688igAURmwA=s48",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-A6INJocZoF8/X9OX0YrSnlI/AAAAAAAAFMc/uN33jp7BqU4phlOk4PbPccRTQf5jLBLCACLcBGAsYHQ/s72/Spotfidz%252525252B72.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiZ91i5RGaT16ZtoGi-f36yB1-62Dvk7YJGxnGkpuGYzxTpG998EONE5B5B87ZMThpUeomcotyuqkPH-idXE7Bu9UGa_Yd3mCe--oJtQCSRY_DLn12GHepoIACU5mhA3rl880975jB8PqDdXS2rtXj3dCAkZDZH_Q8vn8BALt-bUzDfR5GEtL9mW4L-6g=s72",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-v-DyXn7vWy4/X9OX5vk4evI/AAAAAAAAFMk/FrrbA1Xu6wY-Mh7goHL-HH1Xk5qvBycQgCLcBGAsYHQ/s96/Spotfidz%252525252B96.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiZ91i5RGaT16ZtoGi-f36yB1-62Dvk7YJGxnGkpuGYzxTpG998EONE5B5B87ZMThpUeomcotyuqkPH-idXE7Bu9UGa_Yd3mCe--oJtQCSRY_DLn12GHepoIACU5mhA3rl880975jB8PqDdXS2rtXj3dCAkZDZH_Q8vn8BALt-bUzDfR5GEtL9mW4L-6g=s72",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-eWmoGY87G_g/X9OX_86O8vI/AAAAAAAAFMo/gOztF9_qnLsz1HCFPJuEd2RQ5XoSo1YpQCLcBGAsYHQ/s144/Spotfidz%252525252B144.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh7_W9tq7dWv3D2YwnM2mO9OwtwRuI2ArnTc82Ww9W87PPViuISLtQ-Or6tHec_1Hy1vK2IWZTTqQn5wq0qWEyPa6_TFffpeJD3IhFLCmSX_DTt8lRyTUhFg5aUlBzSgihMpkdn97QBeTYm77YQcVX9PSN6EhsT-dbRbYLIH1lvBz2Q3I2-dG1bIG2XSQ=s144",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-xPPEOac3U98/X9OYGMemkWI/AAAAAAAAFMw/7qjWVA6eoXsvukBkRlikXfOONKfU60dnwCLcBGAsYHQ/s168/Spotfidz%252525252B168.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg1N1JAVp3RlvAfdqtOOa6yC8J4qsre3bz4gidQi3aXFYQnwXORyIxenrJVr-HFzpEiOY4DRx37TSxybbrqkkKwZqsLHjHhQNVvtv5mqqnE4nandKZt1e9fGn09HgARqrRjPRoFZKakvEmRxR4thQ51pnqm1tGDfBGddL2ofE6URr6-pYAjcFdmk9uePA=s168",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6ASsiNQxtZk/X9OYNTTLukI/AAAAAAAAFM4/hE-fOIa1NG8l8HQhEvci7ezwH5EZS2GxACLcBGAsYHQ/s192/Spotfidz%252525252B192.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgk0b6-kpIImeOs86asnd-KW5dhj-Mtb-OsQbNnnO2MYtXMiAc8gctj3gH46UXsFptUHFVVF2HC9TrAGL6RMSc14EcBv7kZHN6IPXQkAygJ1yzlZ2F52eGIySbTDX-aA4QEnG4Ama8UVEvWLWuqPTNF78Ieh1Lz-YaWQoFzUuIhXujQP5kv4fHIwv0jPQ=s192",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-3v4ynP7eogI/X9OYXCnR-II/AAAAAAAAFNE/Qy06wFi7_58c-LEK37_Pa7p-eYsXMdC6gCLcBGAsYHQ/s512/Spotfidz%252525252B512.png",
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiLPhSLvs-Bm9mlixp-g5yMEADcE1-jtQA8s8X9aWaf6D473NqmExz2dW5vhU6VJAqkIilXEvkGv4qCh_A-9UJYETNytlUW0OTJHW5XElkLI2ZJxvnHYRjQLo5lE9Wv95OYvh-2bm4AHXEH4l8HwpjDdA2AaNAbJ8RANHBYlqysb8bOy1KO2EsRBn-XPw=s512",
     "sizes": "512x512",
     "type": "image/png"
   }]
