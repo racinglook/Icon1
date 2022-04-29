@@ -1,7 +1,7 @@
 {
-  "name": "Racinglook",
+  "name": "Racinglook Blog",
   "short_name": "Racinglook",
-  "start_url": "https://streamgp.blogspot.com/",
+  "start_url": "https://www.racinglook.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#7117a9",
