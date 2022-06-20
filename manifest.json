@@ -1,37 +1,37 @@
 {
-  "name": "Racinglook Blog",
+  "name": "Racinglook.com",
   "short_name": "Racinglook",
   "start_url": "https://www.racinglook.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#7117a9",
-  "description": "Mengulas Pengalaman Bermanfaat, Tips dan Trik, Otomotif, Fakta Menarik dan Full Race MotoGP.",
+  "description": "Zona informasi bermanfaat para bikers, helmet lovers, seputar otomotif, dunia balap MotoGP, dan tentunya semua artikel yang berkualitas serta bermanfaat untuk para bikers.",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS0Qirgd-nL1mOENltIpkkYnaxFRpy3He7ya8PJyHT-kOiniQf-m-ErO1ckAmrttFZq_S7FeAqbAMYSn52qPYZ5NYI9ueA2j3Qq8uvbydVWKCZp1Y_ktJgI0AxzmL2LVGyevHa8FaRpYxvzYi4e6veVOule4BBVtE2x30hhzjlzqt8SvNU59MxYO7zVg/s48/racinglook%2525252B48.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Owci7bpubn-6RglAeKUeqR761HPS0vRq5Bl_x9-jCY1qEgYuEbJdodJDFwESbqJbd6TqHaCYsldYerPg5uWYvmK1Ludg1fui2HGrvFhkdrnryh6SQKsIHDLiCbna_xcoO03OiD-IeRK82bcv7Bl6mRzUb6qA3bPetJOH7GANCNEZ15BALmAen6evAg/s48/racinglook%252525252B48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicpZT1lMSIDTNxHxguk1dxwE43eto81W8-rYO6etr5nliX31B-dD4rxpcoL1eE1dT1tM8msKNiDyGHfFQx5yPAUmc_8Lh1tX1H35cYzTRh-1_bq1IdZGCKG3D7y5z-YSfd7eoaVxqkHsHtQGFGWmTJfzGTE1_iVcPVhI4LsK2gxEri4nBGqo-NgJSyHw/s72/racinglook%2525252B72.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdRyTLuSyANIqlAFFk98xjgQbSNZ3SfGp-lx24eybdSSTiNYX2qmlWVJ87WtTSn6nXxUIX3EwSXmjxJ-Qf0laxQljr2tEDGgfzRklbz-qMYiZeZPEw0DIPKJyuaSzV7Pzsqi-OuXKINr9s9Oc6zRGt4VetU-uQKdrRHZ8DS629_Is-5IOVIgG959ajQ/s72/racinglook%252525252B72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmzGVmDmbCLeSfBUUAqjlA6FhXAdLYXTxALf4WJeYLkpZVFHpiMFP1A-JrO7BQ0rCKmyANOhyu2kb-poo-zSva6Unpfs17V_n0EDqk_Ecb0w2j8cWQcgHqUtbv8ZcSvOOt87XQAmkg_LiENMyJ6hDsiHz4o2nA5vMbbezUrst63LMYJ69C46kphfpkQ/s96/racinglook%2525252B96.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqu0iNeZv0uu6Aamfc4CjJ0nEdQku_mpelM4WwFAHJT01oYZFrYd7slmBoLMmqsT8_8vCqFfpdJa8e4DLAqQCUkGWF8KkEtFBV28esBKT8NgKfpiAEX-Ee2CkTMtkMI-P_lYtP9pmW3JJos4TnpOBiVQ6dCRwXy2qvVnBVkbG6XvmBl8_pKeeCBdTSkA/s96/racinglook%252525252B96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY1QzFyzcpihmCWmfBjwbqkxIr-385h4TJRntZOmaNwEjHc99KwMZRKwPgMB7IsrYCfbbwWtXqMnp9npS5TIpnWte0Rc4j-oSJe-CnRY621kE9qWAM3YvZXKphDKySAYifBXV2RX5ZKbXsAMTcc-XATQuGQpAsVByiTnrCT4b1gQxBGM_Z5tDmuDvRog/s144/racinglook%2525252B144.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqoL9j0ZpKy5DCQmELKDziJXBWYuaMevCNz1GtuWVgceZ9H-WRY6Fl78f49Ss1ZQhVtV4NkYYtvFZuXAl50bXdhu_Me6Vy8ovXkT934cjfHMd8Qg5HdYPX08mo5ggnp7bUYz_U27A-kkbwKBtro1BcVbjwDuLKr_CVsX331mgfXRqQgV6vnxnzeUTNOQ/s144/racinglook%252525252B144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsMtsIpCoMyhAI3Q6idkM-Fhf7IZWVkycalTHGGjxnLnScS6zbP84FgPhZZkVk3hcVPjBtlUhe8hOS4KF8_ShBAB3GJnFRuAztuuuqW2qaM1_3Dl0yDloUxA8uS6EZzw1ss0jKi3fmRRWRWkl6JL4qrlLoZdKYyZmxEoJl4vfKlxZn7OTSxwh8iKbNyg/s168/racinglook%2525252B168.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgah0BGBo4qgXKJA6v3iObZZw4kamtOfKVoS2pSLNls47IBTmwZ9-E_fFE6DaOILpAkJeeXhpXCE9tGb3V9G3FglbdxLxL2gZYqY-eZiv1TKXOSzJR8NL0JJE_5_DXNeNqLtLr3XtLEqY5kyciZcGlf0lOAUo_0yA4VzOf8bMvm3sCBfUVNknIFW_5FIw/s168/racinglook%252525252B168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOaXAmaLA2UBRqQ9wlOHGGEZplHbKhRvlKpSvesyTxtdTigzhPfUfJC4seZ-RMPjAJMCaIfQ6H2_fPaa2rMmwuCoq2HuPOb6MKYhJJuUNpHZrCxA0WzOF34YEwh3oVP1e09cBi17Tj-j1lx3ZqIix8mXYG_Zyj56ZjKomEp5WPd2fQxWhdccmtrs_aFQ/s192/racinglook%2525252B192.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioSQBjHdQkoz4Zbue5xtbn4DoAYdYmX2vTiyHUKx14_NBSnRV9n7Q0M7lHW2NsddbqQcQRiTlju0tyhqCGDU3EMVAf1VfvgyyQB6n86WTfBVddDE_llEER5Hs6U1-M7-fYq5DSnLfNy8otMaWxwiBlPplP7cT3KGGviX9Kf2nkQFtcthSjQ_JQ4TKOHw/s192/racinglook%252525252B192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQebHle_f7ZjnE26knsic3k7ntzDGpKIClWC-STIOxNWp37q3bjak36t1Spth8jkifd3h-fhvrOBZK19nzOfqIOuVJAqD8gLi6yHQxBzYYSj9fuWd-JSGKbLZkorDml1I5MXn-Ezl4gCvuxdFHHOnB5giEcHehjlEl826EnuzqpCbu9Rot6-97ooWgg/s512/racinglook%2525252B512.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqwCPl03XZAf7bsunq60oL_BzxWNTAyHmB4fH18BYYW8DOM03WLgbIcRQ_w16xX5ZCZsfxN8K2qZkK7assi7bXDT0KSwtgpWlzMnXSKtLqTP85Aa-yK_Itxzs3DhnuBKtI7CVkZwnO_A6IMQncYyamCYOcdoxFhEb8KgwrhDRVhgcdVjDkFRs02paVCg/s512/racinglook%252525252B512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
