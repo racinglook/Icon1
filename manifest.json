@@ -3,7 +3,7 @@
   "short_name": "Racinglook.com",
   "start_url": "https://www.racinglook.com",
   "display": "standalone",
-  "background_color": "#5b2573",
+  "background_color": "#ffffff",
   "theme_color": "#5b2573",
   "description": "Portal para bikers dan pecinta MotoGP yang menyajikan tips otomotif, ulasan helm, full race MotoGP, dan artikel roda dua terbaru yang informatif.",
   "icons": [{
@@ -40,4 +40,5 @@
     "type": "image/png"
   }]
 }
+
 
