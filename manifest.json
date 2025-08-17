@@ -3,8 +3,8 @@
   "short_name": "Racinglook.com",
   "start_url": "https://www.racinglook.com",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#793299",
+  "background_color": "#5b2573",
+  "theme_color": "#5b2573",
   "description": "Portal para bikers dan pecinta MotoGP yang menyajikan tips otomotif, ulasan helm, full race MotoGP, dan artikel roda dua terbaru yang informatif.",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUtohwQwzvOp0fPjlcArBfo3t9SPQXbMaeTw-Vlbu22k-r5JZIajC8xO6JLFJjg-EjNPR9C7wpxQv9wsbcMakB6LWvh_1hFZUblAMHL5OeGdTMOtFWsMM7VVAubl30fqabAl3Ir4V9XsPHt0WcpLERCVM7ZY5MMy9fK6A8O8gmh5z_PND_RK3rCm4_YqS/s36/racinglook.com%2525252525252B36.png",
@@ -40,3 +40,4 @@
     "type": "image/png"
   }]
 }
+
